@@ -1,0 +1,4 @@
+- How to use Core Data
+- How to use NSFetchedResultsController
+- How to sort Core Data results
+- How to use PickerViews
